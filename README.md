@@ -8,4 +8,4 @@ David Urdaneta - Bravo
 | David - Bravo      | https://github.com/davidjuo96/hg_1_bravo |
 | Oriana - Charlie     | https://github.com/davidjuo96/hg_1_charlie | 
 | Hermes - Delta      | https://github.com/davidjuo96/hg_1_delta |
-| Dangelo - Echo      |  |
+| Dangelo - Echo      | https://github.com/davidjuo96/hg_1_echo |
